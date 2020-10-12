@@ -1,1 +1,1 @@
-# INT491AI2020
+# INT491 Artificial Intelligence
